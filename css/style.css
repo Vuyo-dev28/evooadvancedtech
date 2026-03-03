@@ -236,7 +236,7 @@ body {
 }
 
 .page-header {
-    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/2.JPEG) center center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .1), rgba(0, 0, 0, .1)), url(../img/2.png) center center no-repeat;
     background-size: cover;
 }
 

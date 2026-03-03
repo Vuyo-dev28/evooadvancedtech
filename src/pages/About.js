@@ -83,7 +83,7 @@ export default {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="team-item rounded overflow-hidden">
                 <div class="d-flex">
-                  <img class="team-img w-75" src="/img/p4.jpeg" alt="">
+                  <img class="team-img w-75" src="/img/p4.png" alt="">
                   <div class="team-social w-25"></div>
                 </div>
                 <div class="p-4">
@@ -95,7 +95,7 @@ export default {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="team-item rounded overflow-hidden">
                 <div class="d-flex">
-                  <img class="team-img w-75" src="/img/p3.jpeg" alt="">
+                  <img class="team-img w-75" src="/img/p3.png" alt="">
                   <div class="team-social w-25"></div>
                 </div>
                 <div class="p-4">
@@ -107,7 +107,7 @@ export default {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="team-item rounded overflow-hidden">
                 <div class="d-flex">
-                  <img class="team-img w-75" src="/img/p1.jpeg" alt="">
+                  <img class="team-img w-75" src="/img/p1.png" alt="">
                   <div class="team-social w-25"></div>
                 </div>
                 <div class="p-4">
@@ -119,7 +119,7 @@ export default {
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div class="team-item rounded overflow-hidden">
                 <div class="d-flex">
-                  <img class="team-img w-75" src="/img/p2.jpeg" alt="">
+                  <img class="team-img w-75" src="/img/p2.png" alt="">
                   <div class="team-social w-25"></div>
                 </div>
                 <div class="p-4">

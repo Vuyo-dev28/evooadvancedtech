@@ -36,7 +36,7 @@ export default {
           <div class="row g-4">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
               <div class="service-item rounded overflow-hidden">
-                <img class="img-fluid_serv" src="/img/6.JPEG" alt="">
+                <img class="img-fluid_serv" src="/img/6.png" alt="">
                 <div class="position-relative p-4 pt-0">
                   <div class="service-icon">
                     <i class="fa fa-plug fa-3x"></i>
@@ -48,7 +48,7 @@ export default {
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
               <div class="service-item rounded overflow-hidden">
-                <img class="img-fluid_serv" src="/img/1.jpeg" alt="Solar and backup power supporting electrical work">
+                <img class="img-fluid_serv" src="/img/1.png" alt="Solar and backup power supporting electrical work">
                 <div class="position-relative p-4 pt-0">
                   <div class="service-icon">
                     <i class="fa fa-solar-panel fa-3x"></i>

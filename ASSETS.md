@@ -25,14 +25,14 @@ public/
 
 ### Main Images
 - Carousel images: `electric.jpg`, `solar.jpg`, `gate.jpg`, `cctv.jpg`
-- Service images: `1.jpeg`, `6.JPEG`, `gate2.jpg`, `cctv2.jpg`, `alarm.jpg`
-- Team photos: `p1.jpeg`, `p2.jpeg`, `p3.jpeg`, `p4.jpeg`
-- About section: `9.JPEG`, `12.jpg`
-- Feature images: `solarsystems.jpeg`, `banner1.webp`
+- Service images: `1.png`, `6.png`, `gate2.jpg`, `cctv2.jpg`, `alarm.jpg`
+- Team photos: `p1.png`, `p2.png`, `p3.png`, `p4.png`
+- About section: `9.png`, `12.jpg`
+- Feature images: `solarsystems.png`, `banner1.webp`
 
 ### Project Gallery Images
 Located in `public/img/app/`:
-- 84 JPEG files (WhatsApp images)
+- 84 png files (WhatsApp images)
 - 1 WebP file (banner1.webp)
 - All project portfolio images
 

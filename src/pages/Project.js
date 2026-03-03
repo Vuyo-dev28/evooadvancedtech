@@ -123,9 +123,9 @@ export default {
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item first">
               <div class="portfolio-img rounded overflow-hidden">
-                <img class="img-fluid" src="/img/app/banner2.jpeg" alt="">
+                <img class="img-fluid" src="/img/app/banner2.png" alt="">
                 <div class="portfolio-btn">
-                  <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="/img/app/banner2.jpeg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                  <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href="/img/app/banner2.png" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                   <a class="btn btn-lg-square btn-outline-light rounded-circle mx-1" href=""><i class="fa fa-link"></i></a>
                 </div>
               </div>

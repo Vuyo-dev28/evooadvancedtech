@@ -15,7 +15,7 @@ export default {
       <div class="container-fluid p-0 pb-5 wow fadeIn" data-wow-delay="0.1s">
         <div class="owl-carousel header-carousel position-relative">
           <div class="owl-carousel-item position-relative" data-dot="<img src='/img/electric.jpg'>">
-            <img class="img-fluid" src="/img/8.jpeg" alt="">
+            <img class="img-fluid" src="/img/8.png" alt="">
             <div class="owl-carousel-inner">
               <div class="container">
                 <div class="row justify-content-start">
@@ -29,7 +29,7 @@ export default {
             </div>
           </div>
           <div class="owl-carousel-item position-relative" data-dot="<img src='/img/solar.jpg'>">
-            <img class="img-fluid" src="/img/7.jpeg" alt="Solar backup supporting electrical systems">
+            <img class="img-fluid" src="/img/7.png" alt="Solar backup supporting electrical systems">
             <div class="owl-carousel-inner">
               <div class="container">
                 <div class="row justify-content-start">
@@ -148,7 +148,7 @@ export default {
           <div class="row g-0 mx-lg-0">
             <div class="col-lg-6 ps-lg-0 wow fadeIn" data-wow-delay="0.1s" style="min-height: 400px;">
               <div class="position-relative h-100">
-                <img class="position-absolute img-fluid w-100 h-100" src="/img/8.JPEG" style="object-fit: cover;" alt="">
+                <img class="position-absolute img-fluid w-100 h-100" src="/img/8.png" style="object-fit: cover;" alt="">
               </div>
             </div>
             <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
@@ -179,7 +179,7 @@ export default {
           <div class="row g-4">
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
               <div class="service-item rounded overflow-hidden">
-                <img class="img-fluid_serv" src="/img/6.JPEG" alt="">
+                <img class="img-fluid_serv" src="/img/6.png" alt="">
                 <div class="position-relative p-4 pt-0">
                   <div class="service-icon">
                     <i class="fas fa-plug fa-3x"></i>
@@ -191,7 +191,7 @@ export default {
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
               <div class="service-item rounded overflow-hidden">
-                <img class="img-fluid_serv" src="/img/1.jpeg" alt="">
+                <img class="img-fluid_serv" src="/img/1.png" alt="">
                 <div class="position-relative p-4 pt-0">
                   <div class="service-icon">
                     <i class="fas fa-solar-panel fa-3x"></i>
@@ -302,7 +302,7 @@ export default {
             </div>
             <div class="col-lg-6 pe-lg-0 wow fadeIn" data-wow-delay="0.5s" style="min-height: 400px;">
               <div class="position-relative h-100">
-                <img class="position-absolute img-fluid w-100 h-100" src="/img/app/solarsystems.jpeg" style="object-fit: cover;" alt="">
+                <img class="position-absolute img-fluid w-100 h-100" src="/img/app/solarsystems.png" style="object-fit: cover;" alt="">
               </div>
             </div>
           </div>
@@ -395,105 +395,105 @@ export default {
           <div class="row g-4">
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/1.jpeg" alt="Project Gallery 1">
+                <img class="img-fluid" src="/img/1.png" alt="Project Gallery 1">
                 <div class="gallery-overlay">
-                  <a href="/img/1.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/1.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/2.jpeg" alt="Project Gallery 2">
+                <img class="img-fluid" src="/img/2.png" alt="Project Gallery 2">
                 <div class="gallery-overlay">
-                  <a href="/img/2.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/2.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/3.jpeg" alt="Project Gallery 3">
+                <img class="img-fluid" src="/img/3.png" alt="Project Gallery 3">
                 <div class="gallery-overlay">
-                  <a href="/img/3.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/3.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/4.jpeg" alt="Project Gallery 4">
+                <img class="img-fluid" src="/img/4.png" alt="Project Gallery 4">
                 <div class="gallery-overlay">
-                  <a href="/img/4.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/4.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/5.jpeg" alt="Project Gallery 5">
+                <img class="img-fluid" src="/img/5.png" alt="Project Gallery 5">
                 <div class="gallery-overlay">
-                  <a href="/img/5.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/5.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/6.jpeg" alt="Project Gallery 6">
+                <img class="img-fluid" src="/img/6.png" alt="Project Gallery 6">
                 <div class="gallery-overlay">
-                  <a href="/img/6.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/6.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/7.jpeg" alt="Project Gallery 7">
+                <img class="img-fluid" src="/img/7.png" alt="Project Gallery 7">
                 <div class="gallery-overlay">
-                  <a href="/img/7.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/7.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/8.jpeg" alt="Project Gallery 8">
+                <img class="img-fluid" src="/img/8.png" alt="Project Gallery 8">
                 <div class="gallery-overlay">
-                  <a href="/img/8.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/8.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/9.jpeg" alt="Project Gallery 9">
+                <img class="img-fluid" src="/img/9.png" alt="Project Gallery 9">
                 <div class="gallery-overlay">
-                  <a href="/img/9.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/9.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/10.jpeg" alt="Project Gallery 10">
+                <img class="img-fluid" src="/img/10.png" alt="Project Gallery 10">
                 <div class="gallery-overlay">
-                  <a href="/img/10.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/10.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.2s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/11.jpeg" alt="Project Gallery 11">
+                <img class="img-fluid" src="/img/11.png" alt="Project Gallery 11">
                 <div class="gallery-overlay">
-                  <a href="/img/11.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/11.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/12.jpeg" alt="Project Gallery 12">
+                <img class="img-fluid" src="/img/12.png" alt="Project Gallery 12">
                 <div class="gallery-overlay">
-                  <a href="/img/12.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/12.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>
             <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div class="gallery-item rounded overflow-hidden">
-                <img class="img-fluid" src="/img/13.jpeg" alt="Project Gallery 13">
+                <img class="img-fluid" src="/img/13.png" alt="Project Gallery 13">
                 <div class="gallery-overlay">
-                  <a href="/img/13.jpeg" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
+                  <a href="/img/13.png" data-lightbox="gallery" class="btn btn-primary rounded-circle"><i class="fa fa-eye"></i></a>
                 </div>
               </div>
             </div>

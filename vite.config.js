@@ -20,5 +20,5 @@ export default defineConfig({
     open: true
   },
   // Ensure static assets are served
-  assetsInclude: ['**/*.jpg', '**/*.jpeg', '**/*.png', '**/*.gif', '**/*.webp', '**/*.svg']
+  assetsInclude: ['**/*.jpg', '**/*.png', '**/*.png', '**/*.gif', '**/*.webp', '**/*.svg']
 });
