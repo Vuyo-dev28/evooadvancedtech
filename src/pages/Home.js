@@ -4,7 +4,7 @@ import { renderFooter } from '../components/Footer.js';
 
 export default {
   title: 'Electrical Services for Everyday Homeowners',
-  
+
   async render() {
     const app = document.getElementById('app');
     app.innerHTML = `
@@ -503,14 +503,14 @@ export default {
       <!-- Gallery End -->
 
       <!-- Back to Top -->
-      <a href="tel:+1234567890" class="btn btn-lg btn-primary rounded-circle call-button">
+      <a href="tel:+27 78 601 1888" class="btn btn-lg btn-primary rounded-circle call-button">
         <i class="bi bi-telephone"></i>
       </a>
 
       ${renderFooter()}
     `;
   },
-  
+
   init() {
     // Page-specific initialization if needed
   }
