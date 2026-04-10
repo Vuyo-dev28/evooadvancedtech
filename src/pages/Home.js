@@ -503,8 +503,8 @@ export default {
       <!-- Gallery End -->
 
       <!-- Back to Top -->
-      <a href="https://wa.link/p00z1w" target="_blank" rel="noopener noreferrer" class="btn btn-lg btn-success rounded-circle whatsapp-button">
-        <i class="bi bi-whatsapp"></i>
+      <a href="tel:+1234567890" class="btn btn-lg btn-primary rounded-circle call-button">
+        <i class="bi bi-telephone"></i>
       </a>
 
       ${renderFooter()}
